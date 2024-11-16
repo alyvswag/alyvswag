@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/062121a9-9bf3-42e7-abbf-8ee19a310b9b))
+[![MasterHead](https://i.pinimg.com/736x/51/a7/c8/51a7c893c94b7b54ef193ce96546fe59.jpg)
 <h1 align="center">Hi 👋, I'm Talib Aliyev</h1>
 <h3 align="center">Bringing ideas to life through code, shaping the backend world from Azerbaijan.</h3>
 
