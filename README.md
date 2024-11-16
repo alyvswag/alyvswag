@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)
+[![MasterHead]([https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif](https://i.pinimg.com/originals/c2/95/30/c295308c82a8acdabb63645c0f23445f.gif))
 <h1 align="center">Hi 👋, I'm Talib Aliyev</h1>
 <h3 align="center">Bringing ideas to life through code, shaping the backend world from Azerbaijan.</h3>
 
