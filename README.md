@@ -28,4 +28,4 @@
 
 
 ------------- 
-![Snake animation](https://raw.githubusercontent.com/alyvswag/alyvswag/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/alyvswag/alyvswag/output/github-snake.svg)
