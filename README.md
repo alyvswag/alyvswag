@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyswag&label=Profile%20views&color=0e75b6&style=flat" alt="alyswag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alyswag" alt="alyswag" /></a> </p>
-
 - 🔭 I’m currently working on [UniQuery](private)
 
 - 🌱 I’m currently learning **Spring Boot and Flutter**
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alyswag&show_icons=true&locale=en" alt="alyswag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyswag&" alt="alyswag" /></p>
-
