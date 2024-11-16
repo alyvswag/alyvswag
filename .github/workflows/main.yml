@@ -4,7 +4,7 @@ I've added the full code snippet below and added plenty of comments to (hopefull
 
 You can copy this code straight into a blank *.yml file. Make sure you create a new *.yml file under the following directory:
 
-YOUR_GITHUB_USERNAME --> .github --> workflows --> FILE_NAME.yml
+YOUR_GITHUB_USERNAME --> .github --> workflows --> main.yml
 
 
 
