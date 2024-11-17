@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm Talib Aliyev</h1>
 <div align="center">
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="MasterHead">
 </div>
-<h1 align="center">Hi 👋, I'm Talib Aliyev</h1>
+
 <h3 align="center">Bringing ideas to life through code, shaping the backend world from Azerbaijan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyswag&label=Profile%20views&color=0e75b6&style=flat" alt="alyswag" /> </p>
