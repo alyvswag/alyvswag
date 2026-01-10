@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talib Aliyev</h1>
+<h1 align="center">Talib Aliyev</h1>
 <div align="center">
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="MasterHead">
 </div>
