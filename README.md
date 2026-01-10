@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyswag&label=Profile%20views&color=0e75b6&style=flat" alt="alyswag" /> </p>
 
-- 🔭 I’m currently working on [UniQuery](private)
+- 🔭 I’m currently working on [Tebib](private)
 
 - 🌱 I’m currently learning **Spring Boot and Flutter**
 
