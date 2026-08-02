@@ -9,13 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyswag&label=Profile%20views&color=0e75b6&style=flat" alt="alyswag" /> </p>
 
-- 🔭 I’m currently working on [Tebib](private)
-
 - 🌱 I’m currently learning **Spring Boot and Flutter**
 
-- 💬 Ask me about **Java and Dart/Flutter**
+- 💬 Ask me about **Java,Spring Boot and Dart/Flutter**
 
-- 📫 How to reach me **eliyevtalib2020@gmail.com**
+- 📫 How to reach me **aliyevtalib29@gmail.com**
 
 - ⚡ Fun fact **I am an unlucky person**
 
