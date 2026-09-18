@@ -48,7 +48,6 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://tailscale.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg" alt="tailscale" width="40" height="40"/> </a> 
   <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="vault" width="40" height="40"/> </a> 
-  <a href="https://www.bugsink.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugsink.svg" alt="bugsink" width="40" height="40"/> </a> 
 </p>
 
 ------------- 
